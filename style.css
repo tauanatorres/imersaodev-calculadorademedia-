@@ -4,7 +4,7 @@ body {
   background-image: url("https://c.tenor.com/oDJUby5R5cQAAAAd/nazare.gif");
   background-color: #d3d3d3;
   background-size: cover;
-  background-position: 150% 150%;
+  background-position: top;
   background-repeat: no-repeat;
 }
 
