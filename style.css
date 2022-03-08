@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://c.tenor.com/oDJUby5R5cQAAAAd/nazare.gif");
+  background-color: #d3d3d3;
+  background-size: 150%;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.divNotas {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 40px;
+}
+
+input {
+  border-radius: 5px 5px 5px 5px;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  padding: 6px;
+}
+
+button {
+  border-radius: 5px 5px 5px 5px;
+  justify-content: center;
+  border: none;
+  padding: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 0.3s;
+  background-color: #2d56a1;
+  box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
+  color: white;
+}
