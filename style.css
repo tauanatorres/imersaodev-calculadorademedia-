@@ -3,8 +3,8 @@ body {
   min-height: 400px;
   background-image: url("https://c.tenor.com/oDJUby5R5cQAAAAd/nazare.gif");
   background-color: #d3d3d3;
-  background-size: 100vh;
-  background-position: center;
+  background-size: cover;
+  background-position: 100% 100%;
   background-repeat: no-repeat;
 }
 
